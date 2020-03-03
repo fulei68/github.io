@@ -128,7 +128,7 @@ CETV4,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
 
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
-
+卫视,#genre#
 
 电视指南,http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
